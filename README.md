@@ -36,7 +36,8 @@
 
 ### ✨ More informations:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressaaborges&show_icons=true&locale=en&layout=compact" alt="andressaaborges" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andressaaborges&show_icons=true&locale=en" alt="andressaaborges" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andressaaborges&show_icons=true&locale=en" alt="andressaaborges" /></p>
 
 <!---
 andressaaborges/andressaaborges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
