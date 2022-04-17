@@ -1,5 +1,5 @@
 <h1 align="center">👋🏾 Hi, I’m Andressa Borges!</h1>
-<h3 align="center">Full Stack developer focusing on Front-end studies at the moment.</h3>
+<h3 align="center">Full Stack Developer focusing on Front-end studies at the moment.</h3>
 
 
 - 🔭 I’m currently working on **a project for hassle free financial organization** in [```desafio-front-dindin```](https://github.com/andressaaborges/desafio-front).
