@@ -7,7 +7,7 @@
 - 👀 I’m interested in **frontend projects**.
 - 📝 I regularly write articles on [medium.com/@andressaaborges](https://medium.com/@andressaaborges).
 - ☄️ See my short projects with ```HTML5``` ```CSS3``` ```JavaScript``` in [codepen.io/andressaaborges](https://codepen.io/andressaaborges).
-- 📫 How to reach me [linkedin.com/in/andressaaborges](https://www.linkedin.com/andressaaborges/).
+- 📫 How to reach me [linkedin.com/in/andressaaborges](https://www.linkedin.com/in/andressaaborges/).
 - 🧩 Fun fact: my hobby is assembling puzzles with more than 1K pieces.
 
 #
