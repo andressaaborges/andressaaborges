@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **a project for hassle free financial organization** in [```desafio-front-dindin```](https://github.com/andressaaborges/desafio-front).
-- 📚 I’m currently learning ```CSS3```, ```JavaScript```, ```Web Accessibility - W3C```.
+- 📚 I’m currently learning ```CSS3```, ```JavaScript```, ```Web Accessibility```.
 - 👀 I’m interested in **frontend projects**.
 - 💞️ I love applying my UX/UI notions in ```Figma```.
 - 📊 I'm a big ```Data Science``` enthusiast, number is life.
@@ -16,16 +16,6 @@
 
 ### 📃 Blogs posts:
 - [Por que escolher uma stack?](https://medium.com/@andressaaborges/porqueescolherumastack-31361dcf63b7)
-
-#
-
-<h3 align="left">💌 Connect with me:</h3> 
-
-<p align="left">
-<a href="https://linkedin.com/in//in/andressaaborges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Andressa Borges" height="30" width="40" /></a>
-<a href="https://instagram.com/@andressaa_bl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram de Andressa Borges height="30" width="40" /></a>
-<a href="https://medium.com/@andressaaborges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium de Andressa Borges" height="30" width="40" /></a>
-</p>
 
 #
 
@@ -44,6 +34,15 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+#
+
+<h3 align="left">💌 Connect with me:</h3> 
+
+<p align="left">
+<a href="https://linkedin.com/in//in/andressaaborges" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn de Andressa Borges" height="30" /></a>
+<a href="mailto:emylleandressa2811@gmail.com" target="blank"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" alt="Email de Andressa Borges" height="30" /></a>
+</p>
 
 #
 
