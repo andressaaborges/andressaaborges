@@ -40,14 +40,14 @@
 <h3 align="left">💌 Connect with me:</h3> 
 
 <p align="left">
-<a href="https://linkedin.com/in//in/andressaaborges" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn de Andressa Borges" height="30" /></a>
+<a href="https://linkedin.com/in/andressaaborges" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn de Andressa Borges" height="30" /></a>
 <a href="mailto:emylleandressa2811@gmail.com" target="blank"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" alt="Email de Andressa Borges" height="30" /></a>
 </p>
 
 #
 
 ### ✨ More informations:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressaaborges&show_icons=true&locale=en&layout=compact" alt="andressaaborges" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andressaaborges&show_icons=true&locale=en" alt="andressaaborges" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressaaborges&show_icons=true&locale=en&layout=compact" alt="andressaaborges" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=andressaaborges&show_icons=true&locale=en" alt="andressaaborges" /></p>
 
 <!---
 andressaaborges/andressaaborges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,4 +60,5 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 - minha missão é fazer com que meu trabalho ajude a transformar realidades
 - meu objetivo para esse ano é me tornar uma desenvolvedora em alta perfomance dominando a stack frontend
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andressaaborges"></p>
 --->
