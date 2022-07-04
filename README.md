@@ -6,8 +6,7 @@
 - 📚 I’m currently learning ```CSS3```, ```JavaScript```, ```Web Accessibility```.
 - 👀 I’m interested in **frontend projects**.
 - 💞️ I love applying my UX/UI notions in ```Figma```.
-- 📊 I'm a big ```Data Science``` enthusiast, number is life.
-- 📝 I regularly write articles on [medium.com/@andressaaborges](https://medium.com/@andressaaborges).
+- 📝 I occasionally write articles on [medium.com/@andressaaborges](https://medium.com/@andressaaborges).
 - ☄️ See my short projects with ```HTML5``` ```CSS3``` ```JavaScript``` in [codepen.io/andressaaborges](https://codepen.io/andressaaborges).
 - 📫 How to reach me [linkedin.com/in/andressaaborges](https://www.linkedin.com/in/andressaaborges/).
 - 🧩 Fun fact: my hobby is assembling puzzles with more than 1K pieces.
