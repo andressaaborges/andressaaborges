@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **a project for hassle free financial organization** in [```desafio-front-dindin```](https://github.com/andressaaborges/desafio-front).
-- 📚 I’m currently learning ```JavaScript```, ```TDD / Jest```, ```Web Accessibility```.
+- 📚 I’m currently learning ```React```, ```TDD / Vitest```, ```Web Accessibility```.
 - 👀 I’m interested in **frontend projects**.
 - 💞️ I love applying my UX/UI notions in ```Figma```.
 - 📝 I occasionally write articles on [medium.com/@andressaaborges](https://medium.com/@andressaaborges).
