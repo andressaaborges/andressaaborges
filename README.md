@@ -13,9 +13,9 @@
 
 ### 👩🏾‍💻 My recents projects:
 
-- Site Ollo
+- Site Ollo: **[Desing in Figma](https://www.figma.com/proto/bPUWeMusT3tx2LNavRESPY/Site-Ollo---Ajustado-Produtos?node-id=0-370&scaling=min-zoom&page-id=0%3A1&mode=design&t=W7IAh9CPDSRgNpBd-1)** | **[Site](https://ollo.is)**
 
-![Design](https://flic.kr/p/2oLw2aQ)
+![Design](https://live.staticflickr.com/65535/53012324558_c22ed9f55b.jpg)
 
 #
 
