@@ -1,13 +1,11 @@
 <h1 align="center">👋🏾 Hi, I’m Andressa Borges!</h1>
-<h3 align="center">Full Stack Developer focusing on Front-end</h3>
+<h3 align="center">Full Stack Developer | Front-end Especialist </h3>
 
 
-- 🔭 I’m currently working on **a project for hassle free financial organization** in [```desafio-front-dindin```](https://github.com/andressaaborges/desafio-front).
-- 📚 I’m currently learning ```React```, ```TDD / Vitest```, ```Web Accessibility```.
-- 👀 I’m interested in **frontend projects**.
+- 📚 I’m currently learning ```Typescript```, ```Redux```, ```Next.js```.
+- 👀 I’m interested in **frontend/fullstack projects**.
 - 💞️ I love applying my UX/UI notions in ```Figma```.
 - 📝 I occasionally write articles on [medium.com/@andressaaborges](https://medium.com/@andressaaborges).
-- ☄️ See my short projects with ```HTML5``` ```CSS3``` ```JavaScript``` in [codepen.io/andressaaborges](https://codepen.io/andressaaborges).
 - 📫 How to reach me [linkedin.com/in/andressaaborges](https://www.linkedin.com/in/andressaaborges/).
 - 🧩 Fun fact: my hobby is assembling puzzles with more than 1K pieces.
 
@@ -20,7 +18,7 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vite/vite.png" alt="Vite"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -28,6 +26,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jest/jest.png" alt="Jest"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
