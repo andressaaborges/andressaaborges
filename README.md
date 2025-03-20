@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Front-end Especialist </h3>
 
 
-- 📚 I’m currently learning ```Typescript```, ```Next.js```, ```DevOps```.
+- 📚 I’m currently learning ```IA for developers```, ```Astro.js```, ```DevOps```.
 - 👀 I’m interested in **frontend/fullstack projects**.
 - 💞️ I love applying my UX/UI notions in ```Figma```.
 - 📝 I occasionally write articles on [medium.com/@andressaaborges](https://medium.com/@andressaaborges).
