@@ -1,5 +1,5 @@
 <h1 align="center">👋🏾 Hi, I’m Andressa Borges!</h1>
-<h3 align="center">Full Stack Developer | Front-end Especialist </h3>
+<h3 align="center">Full Stack Software Enginner | Front-end Especialist </h3>
 
 
 - 📚 I’m currently learning ```IA for developers```, ```Astro.js```, ```DevOps```.
