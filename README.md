@@ -53,7 +53,12 @@
 #
 
 ### ✨ More informations:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressaaborges&show_icons=true&locale=en&layout=compact" alt="andressaaborges" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=andressaaborges&show_icons=true&locale=en" alt="andressaaborges" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andressaaborges&theme=dracula&hide_border=false" alt="andressaaborges" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=andressaaborges&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="andressaaborges" /></p>
+
+#
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressaaborges&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="andressaaborges" /></p>
+
 
 <!---
 andressaaborges/andressaaborges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,6 +70,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - minha missão é fazer com que meu trabalho ajude a transformar realidades
-- meu objetivo para esse ano é me tornar uma desenvolvedora em alta perfomance dominando a stack frontend
+- meu objetivo para esse ano é me tornar uma desenvolvedora em alta perfomance dominando a stack frontend - escrevi isso em 2022. Hoje em Março de 2025 o é status: CONSEGUI!
+Próximo passo: ter o meu produto de tecnologia voltado para pessoas negras
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andressaaborges"></p>
 --->
